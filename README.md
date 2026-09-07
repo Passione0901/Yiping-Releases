@@ -22,3 +22,8 @@ Windows 11 x64向け。.NETの別途インストールは不要です。
 表示されたエラー、現在のバージョン、操作手順、LauncherLogsフォルダ内の該当ログを開発者へ渡してください。
 更新中はGame_backupやupdate-state.jsonを手動で削除しないでください。
 Gameフォルダは更新時に置き換わります。個人ファイルを保存しないでください。
+
+
+## Android
+
+[Android APK download and update instructions](https://github.com/Passione0901/Yiping-Releases/blob/main/ANDROID.md)
