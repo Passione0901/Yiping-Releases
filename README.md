@@ -27,3 +27,8 @@ Gameフォルダは更新時に置き換わります。個人ファイルを保�
 ## Android
 
 [Android APK download and update instructions](https://github.com/Passione0901/Yiping-Releases/blob/main/ANDROID.md)
+
+
+## Windows差分更新（Launcher 0.3）
+
+最新のYiping-Launcher.zipをダウンロードし、ランチャーを終了してからLauncher.exeだけを交換してください。既存のGame、version.txt、launcher_config.jsonは残してください。以降は差分が使える場合に変更ファイルだけを取得します。初回・対象外の旧版・差分の照合失敗時は全体を取得します。すでにゲームが最新版なら再取得しません。
