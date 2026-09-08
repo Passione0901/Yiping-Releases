@@ -2,7 +2,7 @@
 
 ## 初回ダウンロード
 
-[Yiping-Launcher.zipをダウンロード](https://github.com/Passione0901/Yiping-Releases/releases/latest/download/Yiping-Launcher.zip)
+[Yiping-Launcher.zipをダウンロード](https://github.com/Passione0901/Yiping-Releases/releases/download/launcher-v0.4.0/Yiping-Launcher.zip)
 
 1. ZIPをダウンロードして、書き込み可能なフォルダへすべて展開します。
 2. Launcher.exeを起動します。launcher_config.jsonは同じフォルダに置いてください。
@@ -29,6 +29,6 @@ Gameフォルダは更新時に置き換わります。個人ファイルを保�
 [Android APK download and update instructions](https://github.com/Passione0901/Yiping-Releases/blob/main/ANDROID.md)
 
 
-## Windows差分更新（Launcher 0.3）
+## Windows差分のみ更新（Launcher 0.4）
 
-最新のYiping-Launcher.zipをダウンロードし、ランチャーを終了してからLauncher.exeだけを交換してください。既存のGame、version.txt、launcher_config.jsonは残してください。以降は差分が使える場合に変更ファイルだけを取得します。初回・対象外の旧版・差分の照合失敗時は全体を取得します。すでにゲームが最新版なら再取得しません。
+最新のYiping-Launcher.zipをダウンロードし、ランチャーを終了してからLauncher.exeだけを交換してください。既存のGame、version.txt、launcher_config.jsonは残してください。Launcher 0.3以前は今後の差分のみReleaseを読めないため、一度だけ交換が必要です。以降は必要な差分を順番に取得します。初回・対象外の旧版・修復時は保持された基準全体版と差分から再構成します。すでにゲームが最新版なら再取得しません。
