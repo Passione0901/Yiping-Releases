@@ -1,8 +1,8 @@
 # Yiping Android
 
-[Download Yiping-Android.apk (1.0.11)](https://github.com/Passione0901/Yiping-Releases/releases/download/android-v1.0.11/Yiping-Android.apk)
+[Download Yiping-Android.apk (1.0.12)](https://github.com/Passione0901/Yiping-Releases/releases/download/android-v1.0.12/Yiping-Android.apk)
 
-[Release page](https://github.com/Passione0901/Yiping-Releases/releases/tag/android-v1.0.11)
+[Release page](https://github.com/Passione0901/Yiping-Releases/releases/tag/android-v1.0.12)
 
 Android 7.1 or later / ARM64.
 
