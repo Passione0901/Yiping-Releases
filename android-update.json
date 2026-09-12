@@ -1,7 +1,7 @@
 {
-  "releasePage": "https://github.com/Passione0901/Yiping-Releases/releases/tag/android-v1.0.14",
-  "versionCode": 11,
-  "versionName": "1.0.14",
+  "certificateSha256": "2ecac632370ecc2e9bd97fd2cc22d0785b40d02373da779121b8f69a4e4f9a04",
   "applicationId": "com.passione.yiping",
-  "certificateSha256": "2ecac632370ecc2e9bd97fd2cc22d0785b40d02373da779121b8f69a4e4f9a04"
+  "versionName": "1.0.15",
+  "versionCode": 12,
+  "releasePage": "https://github.com/Passione0901/Yiping-Releases/releases/tag/android-v1.0.15"
 }
